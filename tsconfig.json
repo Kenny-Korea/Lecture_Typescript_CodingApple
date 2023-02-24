@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es2015",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    // ts파일마다 d.ts 파일이 자동으로 생성됨
+    "declaration": false,
+  }
+}
